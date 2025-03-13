@@ -4,7 +4,7 @@ var __name = (target, value) => __defProp(target, "name", { value, configurable:
 // js/_worker.js
 import { connect } from "cloudflare:sockets";
 var proxyListURL = "https://raw.githubusercontent.com/jaka2m/botak/refs/heads/main/cek/proxyList.txt";
-var serverku = "mediafairy.us.kg";
+var serverku = "free.mediafairy.web.id";
 var pagehost = "/";
 var namaWeb = "FREE PROXY LIFETIME";
 var telegramku = "https://t.me/abcdef4y";
