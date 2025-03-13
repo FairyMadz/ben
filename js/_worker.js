@@ -6,7 +6,7 @@ import { connect } from "cloudflare:sockets";
 var __defProp2 = Object.defineProperty;
 var __name2 = /* @__PURE__ */ __name((target, value) => __defProp2(target, "name", { value, configurable: true }), "__name");
 var proxyListURL = "https://bmkg.xyz/update_proxyip.txt";
-var serverku = "gratis.mediafairy.web.id";
+var serverku = "free.mediafairy.web.id";
 var pagehost = "/";
 var namaWeb = "FREE PROXY LIFETIME";
 var telegramku = "https://t.me/abcdef4y";
