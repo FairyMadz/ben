@@ -92,8 +92,7 @@ var worker_default = {
         }, "periodicUpdate"), "periodicUpdate"))()
       );
       if (upgradeHeader === "websocket") {
-        const pathMatch = url.pathname.match(/^\/Free-CF-Proxy-([A-Z]{2})(\d+)?$/);
-        if (pathMatch) {
+        const pathMatch = url.pathname.match(/^\/(.+[:=-]\d+)$/);
           const countryCode = pathMatch[1];
           const index = pathMatch[2] ? parseInt(pathMatch[2], 10) - 1 : null;
           console.log(`Country Code: ${countryCode}, Index: ${index}`);
@@ -117,7 +116,7 @@ var worker_default = {
           console.log(`Selected Proxy: ${proxyIP}`);
           return await websockerHandler(request);
         }
-        const ipPortMatch = url.pathname.match(/^\/Free-CF-Proxy-(.+[:=-]\d+)$/);
+        const ipPortMatch = url.pathname.match(/^\/(.+[:=-]\d+)$/);
         if (ipPortMatch) {
           proxyIP = ipPortMatch[1].replace(/[=:-]/, ":");
           console.log(`Direct Proxy IP: ${proxyIP}`);
