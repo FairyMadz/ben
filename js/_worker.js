@@ -13,6 +13,10 @@ var telegramku = "https://t.me/abcdef4y";
 var telegrambot = "https://t.me/MediafairyBot";
 var wildcards = [
   "ava.game.naver.com",
+  "care.pmang.game.naver.com",
+  "df.game.naver.com",
+  "gamebulletin.nexon.game.naver.com",
+  "store.naver.com",
   "business.blibli.com",
   "quiz.int.vidio.com",
   "support.zoom.us",
