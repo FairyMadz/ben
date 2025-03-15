@@ -1,4 +1,11 @@
-Error checking 188.245.242.73:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=188.245.242.73:443
-Error checking 14.33.77.185:29138: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=14.33.77.185:29138
-Error checking 119.195.173.74:11001: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=119.195.173.74:11001
-Error checking 89.110.104.252:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=89.110.104.252:8443
+Error checking 86.38.156.7:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=86.38.156.7:2053
+Error checking 188.130.154.234:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=188.130.154.234:8443
+Error checking 46.8.238.223:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=46.8.238.223:2053
+Error checking 95.217.209.243:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=95.217.209.243:8443
+Error checking 31.47.58.37:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=31.47.58.37:443
+Error checking 77.105.167.74:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=77.105.167.74:2053
+Error checking 62.60.247.160:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=62.60.247.160:443
+Error checking 47.76.218.163:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=47.76.218.163:443
+Error checking 218.157.11.21:12601: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=218.157.11.21:12601
+Error checking 176.223.129.239:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=176.223.129.239:443
+Error checking 147.45.72.18:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=147.45.72.18:443
