@@ -1,18 +1,8 @@
-Error checking 138.2.95.61:1111: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=138.2.95.61:1111
-Error checking 13.228.155.72:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=13.228.155.72:443
-Error checking 164.52.2.100:443: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-Error checking 185.126.80.181:51207: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=185.126.80.181:51207
-Error checking 185.110.217.73:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=185.110.217.73:443
-Error checking 194.76.173.225:2053: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-Error checking 91.107.196.135:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=91.107.196.135:443
-Error checking 57.129.137.222:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=57.129.137.222:8443
-Error checking 51.38.69.149:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=51.38.69.149:2053
-Error checking 38.54.50.69:8444: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-Error checking 220.124.0.63:26015: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=220.124.0.63:26015
-Error checking 59.27.123.170:50000: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-Error checking 95.169.162.180:2053: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-Error checking 94.131.119.59:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=94.131.119.59:8443
-Error checking 83.217.9.99:65513: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=83.217.9.99:65513
-Error checking 122.116.86.104:81: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-Error checking 52.10.78.7:80: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-Error checking 67.226.221.238:80: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error checking 151.145.73.160:443: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error checking 138.197.191.77:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=138.197.191.77:2053
+Error checking 67.226.223.172:80: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=67.226.223.172:80
+Error checking 206.237.18.140:36485: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=206.237.18.140:36485
+Error checking 86.110.56.60:2053: HTTPSConnectionPool(host='api.bmkg.xyz', port=443): Max retries exceeded with url: /check?ip=86.110.56.60:2053 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+Error checking 51.77.48.41:2053: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error checking 89.169.35.181:10001: HTTPSConnectionPool(host='api.bmkg.xyz', port=443): Max retries exceeded with url: /check?ip=89.169.35.181:10001 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+Error checking 170.106.106.230:36467: HTTPSConnectionPool(host='api.bmkg.xyz', port=443): Max retries exceeded with url: /check?ip=170.106.106.230:36467 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
