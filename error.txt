@@ -1,11 +1,9 @@
-Error checking 31.24.253.238:2053: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-Error checking 90.165.204.7:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=90.165.204.7:443
-Error checking 51.195.249.226:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=51.195.249.226:8443
-Error checking 51.195.85.98:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=51.195.85.98:2053
-Error checking 121.169.204.252:15461: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=121.169.204.252:15461
-Error checking 195.135.252.96:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=195.135.252.96:8443
-Error checking 185.233.83.162:23587: HTTPSConnectionPool(host='api.bmkg.xyz', port=443): Read timed out. (read timeout=180)
-Error checking 94.242.53.158:2053: HTTPSConnectionPool(host='api.bmkg.xyz', port=443): Read timed out. (read timeout=180)
-Error checking 43.135.166.95:11030: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-Error checking 154.9.241.153:37160: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-Error checking 204.110.222.127:80: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error checking 45.95.80.18:2053: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error checking 57.129.4.20:2053: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error checking 95.217.186.94:9443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=95.217.186.94:9443
+Error checking 185.14.30.183:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=185.14.30.183:443
+Error checking 5.253.189.99:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=5.253.189.99:443
+Error checking 91.239.148.3:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=91.239.148.3:2053
+Error checking 86.110.56.247:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=86.110.56.247:2053
+Error checking 89.39.120.158:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=89.39.120.158:2053
+Error checking 147.45.245.15:443: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
