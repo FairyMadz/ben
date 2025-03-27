@@ -1,3 +1,1 @@
-Error checking 51.77.140.254:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=51.77.140.254:8443
-Error checking 47.239.231.62:7443: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-Error checking 5.44.47.67:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=5.44.47.67:2053
+Error checking 205.234.157.47:54675: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
