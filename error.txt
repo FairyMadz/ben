@@ -1,2 +1,15 @@
-Error checking 57.128.30.95:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=57.128.30.95:443
-Error checking 70.34.244.250:53062: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error checking 86.38.156.24:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=86.38.156.24:2053
+Error checking 65.109.189.187:3030: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=65.109.189.187:3030
+Error checking 185.94.167.181:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=185.94.167.181:8443
+Error checking 195.26.230.99:2053: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error checking 95.216.20.142:12431: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=95.216.20.142:12431
+Error checking 87.98.235.174:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=87.98.235.174:2053
+Error checking 191.96.153.40:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=191.96.153.40:2053
+Error checking 103.102.231.186:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=103.102.231.186:2053
+Error checking 45.112.195.168:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=45.112.195.168:2053
+Error checking 57.129.137.233:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=57.129.137.233:8443
+Error checking 57.129.137.60:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=57.129.137.60:443
+Error checking 116.47.199.34:50000: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=116.47.199.34:50000
+Error checking 95.179.189.0:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=95.179.189.0:2053
+Error checking 37.233.102.53:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=37.233.102.53:443
+Error checking 176.241.244.215:17858: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
