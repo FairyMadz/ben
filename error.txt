@@ -1,3 +1,1 @@
-Error checking 51.79.29.38:2053: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=51.79.29.38:2053
-Error checking 220.126.150.192:33829: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=220.126.150.192:33829
-Error checking 31.128.37.116:8443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=31.128.37.116:8443
+Error checking 74.119.195.32:443: 502 Server Error: Bad Gateway for url: https://api.bmkg.xyz/check?ip=74.119.195.32:443
